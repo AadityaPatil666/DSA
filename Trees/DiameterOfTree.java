@@ -1,3 +1,5 @@
+package Trees;
+
 public class DiameterOfTree {
     public static class Node {
         int val;

@@ -1,3 +1,5 @@
+package Trees;
+
 public class Trees {
     public static class Node {
         int val;

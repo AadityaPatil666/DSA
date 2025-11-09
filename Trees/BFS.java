@@ -1,3 +1,5 @@
+package Trees;
+
 import java.util.LinkedList;
 import java.util.Queue;
 
@@ -46,5 +48,6 @@ public class BFS {
         a.left = c;
         a.right = d;
         b.right = e;
+
     }
 }

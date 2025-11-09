@@ -1,3 +1,5 @@
+package Trees;
+
 public class SizeOfBT {
     public static class Node {
         int val;
