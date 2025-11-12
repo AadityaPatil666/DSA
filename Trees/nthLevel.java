@@ -25,7 +25,7 @@ public class nthLevel {
         Node c = new Node(4);
         Node d = new Node(5);
         Node e = new Node(6);
-
+    
         root.left = a;
         root.right = b;
         a.left = c;
