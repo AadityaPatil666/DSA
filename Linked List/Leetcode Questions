@@ -1,1 +1,10 @@
+12 Nov, 2025
+
 141. Linked List Cycle
+237. Delete Node in a Linked List
+203. Remove Linked List Elements
+876. Middle of the Linked List
+1290. Convert Binary Number in a Linked List to Integer  --->> ans = ans * 2 + node.val --->> Use this formula to convert binary to decimal
+83. Remove Duplicates from Sorted List  --->> Use one pointer don't go for 2 pointers
+206. Reverse Linked List  **Revisit Again**
+160. Intersection of Two Linked Lists
